@@ -1,5 +1,0 @@
-Onboard Automator (Manage Azure identities and governance)
-
-Streamline and automate the process of onboarding a new employee into Azure AD and assigning necessary Azure resources. 
-That is designing a system that automatically sets up a new employee in Azure Active Directory (Azure AD) and grants them
- access to the Azure resources they need for their job. This eliminates manual tasks and streamlines the onboarding process.
